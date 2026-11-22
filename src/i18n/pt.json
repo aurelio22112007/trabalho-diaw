@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "sobre": "Sobre",
+    "projetos": "Projetos",
+    "experiencias": "Experiências",
+    "contato": "Contato",
+    "menu": "Abrir menu"
+  },
+  "sobre": {
+    "saudacao": "Olá, eu sou",
+    "papel": "Estudante de graduação · PUC Minas · 2º semestre",
+    "texto1": "Estou começando minha trajetória em tecnologia e uso projetos no GitHub para praticar e consolidar o que aprendo nas disciplinas de programação e desenvolvimento web.",
+    "texto2": "Neste portfólio reúno meus projetos, minhas experiências e as melhores formas de falar comigo.",
+    "interessesTitulo": "Interesses",
+    "interesses": ["Desenvolvimento web", "Programação", "Front-end com React", "Aprender novas tecnologias"],
+    "objetivosTitulo": "Objetivos profissionais",
+    "objetivos": [
+      "Conquistar uma vaga de estágio na área de tecnologia",
+      "Evoluir como desenvolvedor construindo projetos cada vez mais completos"
+    ]
+  },
+  "projetos": {
+    "titulo": "Projetos",
+    "subtitulo": "Linha do tempo dos meus projetos, do mais antigo ao mais recente.",
+    "github": "Ver no GitHub"
+  },
+  "experiencias": {
+    "titulo": "Experiências",
+    "subtitulo": "Formação, estágios, freelas, projetos open source e eventos técnicos."
+  },
+  "contato": {
+    "titulo": "Contato",
+    "subtitulo": "Fale comigo por um dos canais abaixo ou envie uma mensagem pelo formulário.",
+    "nome": "Nome",
+    "email": "E-mail",
+    "mensagem": "Mensagem",
+    "enviar": "Enviar mensagem",
+    "enviando": "Enviando...",
+    "erroNomeObrigatorio": "Informe seu nome.",
+    "erroNomeCurto": "O nome precisa ter ao menos 2 caracteres.",
+    "erroEmailObrigatorio": "Informe seu e-mail.",
+    "erroEmailInvalido": "Informe um e-mail válido.",
+    "erroMensagemObrigatoria": "Escreva uma mensagem.",
+    "erroMensagemCurta": "A mensagem precisa ter ao menos 10 caracteres.",
+    "erroMensagemLonga": "A mensagem pode ter no máximo 1000 caracteres.",
+    "sucesso": "Mensagem enviada! Responderei em breve.",
+    "erroEnvio": "Não foi possível enviar agora. Tente novamente ou use um dos ícones acima.",
+    "erroConfig": "O envio por e-mail ainda não foi configurado neste ambiente (variáveis do EmailJS)."
+  },
+  "rodape": {
+    "direitos": "Todos os direitos reservados."
+  }
+}

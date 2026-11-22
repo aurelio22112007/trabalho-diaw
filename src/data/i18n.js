@@ -1,0 +1,88 @@
+import { profile } from "./profile.js";
+
+export const dict = {
+  pt: {
+    nav: { about: "Sobre mim", projects: "Projetos", experience: "Experiências", contact: "Contato" },
+    hero: {
+      role: "Estudante de desenvolvimento de software",
+      cta1: "Ver projetos",
+      cta2: "Falar comigo",
+    },
+    about: {
+      title: "Sobre mim",
+      p1: `Sou estudante de ${profile.course} na ${profile.university} e estou começando minha trajetória em desenvolvimento de software. Até agora, aprendi construindo projetos individuais: um simulador de banco digital, uma API REST, um sistema em Java com orientação a objetos e um catálogo em React.`,
+      p2: "Meu objetivo é conseguir uma vaga de estágio em desenvolvimento, onde eu possa aprender com um time, receber feedback e contribuir com código de verdade.",
+      factsTitle: "Em resumo",
+      facts: [
+        "Formação: " + profile.course + " (" + profile.university + ")",
+        "Área: desenvolvimento web e back-end",
+        "Tecnologias: Java, JavaScript, Node.js, React, HTML, CSS",
+        "Interesses: APIs, sistemas de pagamento, interfaces",
+        "Objetivo: estágio na área",
+      ],
+    },
+    projects: { title: "Projetos", repo: "Ver no GitHub", project: "Projeto" },
+    experience: {
+      title: "Experiências",
+      note: "Ainda não tenho experiência profissional no mercado. Estou buscando a primeira oportunidade de estágio.",
+    },
+    contact: {
+      title: "Contato",
+      name: "Nome",
+      email: "E-mail",
+      message: "Mensagem",
+      send: "Enviar mensagem",
+      sending: "Enviando...",
+      reqName: "Digite seu nome.",
+      reqEmail: "Digite seu e-mail.",
+      badEmail: "Digite um e-mail válido.",
+      reqMsg: "Escreva uma mensagem.",
+      shortMsg: "A mensagem precisa ter pelo menos 10 caracteres.",
+      ok: "Mensagem enviada! Responderei em breve.",
+      fail: "Não foi possível enviar. Tente novamente ou use um dos ícones ao lado.",
+      noConfig: "Envio de e-mail não configurado. Veja o arquivo .env.example no README.",
+    },
+  },
+  en: {
+    nav: { about: "About me", projects: "Projects", experience: "Experience", contact: "Contact" },
+    hero: {
+      role: "Software development student",
+      cta1: "See projects",
+      cta2: "Get in touch",
+    },
+    about: {
+      title: "About me",
+      p1: `I am a ${profile.courseEn} student at ${profile.university}, starting my path in software development. So far I have learned by building solo projects: a digital bank simulator, a REST API, an object-oriented Java system and a React catalog.`,
+      p2: "My goal is to land a development internship where I can learn from a team, receive feedback and contribute real code.",
+      factsTitle: "At a glance",
+      facts: [
+        "Education: " + profile.courseEn + " (" + profile.university + ")",
+        "Focus: web and back-end development",
+        "Tech: Java, JavaScript, Node.js, React, HTML, CSS",
+        "Interests: APIs, payment systems, interfaces",
+        "Goal: internship in the field",
+      ],
+    },
+    projects: { title: "Projects", repo: "View on GitHub", project: "Project" },
+    experience: {
+      title: "Experience",
+      note: "I do not have professional industry experience yet. I am looking for my first internship opportunity.",
+    },
+    contact: {
+      title: "Contact",
+      name: "Name",
+      email: "E-mail",
+      message: "Message",
+      send: "Send message",
+      sending: "Sending...",
+      reqName: "Enter your name.",
+      reqEmail: "Enter your e-mail.",
+      badEmail: "Enter a valid e-mail.",
+      reqMsg: "Write a message.",
+      shortMsg: "The message must have at least 10 characters.",
+      ok: "Message sent! I will reply soon.",
+      fail: "Could not send. Try again or use one of the icons beside the form.",
+      noConfig: "E-mail sending is not configured. See .env.example in the README.",
+    },
+  },
+};

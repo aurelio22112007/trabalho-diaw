@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "sobre": "About",
+    "projetos": "Projects",
+    "experiencias": "Experience",
+    "contato": "Contact",
+    "menu": "Open menu"
+  },
+  "sobre": {
+    "saudacao": "Hi, I'm",
+    "papel": "Undergraduate student · PUC Minas · 2nd semester",
+    "texto1": "I'm starting my journey in technology and I use GitHub projects to practice and consolidate what I learn in my programming and web development courses.",
+    "texto2": "In this portfolio I gather my projects, my experience and the best ways to reach me.",
+    "interessesTitulo": "Interests",
+    "interesses": ["Web development", "Programming", "Front-end with React", "Learning new technologies"],
+    "objetivosTitulo": "Professional goals",
+    "objetivos": [
+      "Get an internship in the technology field",
+      "Grow as a developer by building increasingly complete projects"
+    ]
+  },
+  "projetos": {
+    "titulo": "Projects",
+    "subtitulo": "A timeline of my projects, from the oldest to the most recent.",
+    "github": "View on GitHub"
+  },
+  "experiencias": {
+    "titulo": "Experience",
+    "subtitulo": "Education, internships, freelance work, open source projects and technical events."
+  },
+  "contato": {
+    "titulo": "Contact",
+    "subtitulo": "Reach me through one of the channels below or send a message using the form.",
+    "nome": "Name",
+    "email": "E-mail",
+    "mensagem": "Message",
+    "enviar": "Send message",
+    "enviando": "Sending...",
+    "erroNomeObrigatorio": "Please enter your name.",
+    "erroNomeCurto": "The name must have at least 2 characters.",
+    "erroEmailObrigatorio": "Please enter your e-mail.",
+    "erroEmailInvalido": "Please enter a valid e-mail.",
+    "erroMensagemObrigatoria": "Please write a message.",
+    "erroMensagemCurta": "The message must have at least 10 characters.",
+    "erroMensagemLonga": "The message can have at most 1000 characters.",
+    "sucesso": "Message sent! I will reply soon.",
+    "erroEnvio": "Could not send right now. Please try again or use one of the icons above.",
+    "erroConfig": "E-mail sending is not configured in this environment yet (EmailJS variables)."
+  },
+  "rodape": {
+    "direitos": "All rights reserved."
+  }
+}

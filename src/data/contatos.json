@@ -1,0 +1,22 @@
+[
+  {
+    "id": "email",
+    "label": "E-mail",
+    "href": "mailto:aureliooo.silvaaa@gmail.com"
+  },
+  {
+    "id": "whatsapp",
+    "label": "WhatsApp",
+    "href": "https://wa.me/5531997550282"
+  },
+  {
+    "id": "linkedin",
+    "label": "LinkedIn",
+    "href": "https://www.linkedin.com/in/aurelio.silva_"
+  },
+  {
+    "id": "github",
+    "label": "GitHub",
+    "href": "https://github.com/aurelio22112007"
+  }
+]

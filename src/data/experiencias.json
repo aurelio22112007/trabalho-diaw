@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "instituicao": "PUC Minas",
+    "cargo": { "pt": "Estudante de graduação", "en": "Undergraduate student" },
+    "periodo": { "pt": "Em andamento", "en": "Ongoing" },
+    "descricao": {
+      "pt": "Cursando o 2º semestre, com disciplinas de programação e desenvolvimento web.",
+      "en": "Currently in the 2nd semester, taking programming and web development courses."
+    }
+  },
+  {
+    "id": 2,
+    "instituicao": { "pt": "Sua instituição ou empresa", "en": "Your institution or company" },
+    "cargo": { "pt": "Exemplo: estágio, freela, evento ou projeto open source", "en": "Example: internship, freelance, event or open source project" },
+    "periodo": { "pt": "Mês/ano – mês/ano", "en": "Month/year – month/year" },
+    "descricao": {
+      "pt": "Exemplo: substitua por uma experiência real ou remova este item do arquivo experiencias.json.",
+      "en": "Example: replace with a real experience or remove this item from experiencias.json."
+    }
+  }
+]

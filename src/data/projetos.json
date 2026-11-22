@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nome": { "pt": "Projeto de exemplo 1", "en": "Sample project 1" },
+    "descricao": {
+      "pt": "Exemplo: substitua pelo seu primeiro projeto do GitHub, explicando o que ele faz e o que você aprendeu.",
+      "en": "Example: replace with your first GitHub project, explaining what it does and what you learned."
+    },
+    "tecnologias": ["HTML", "CSS", "JavaScript"],
+    "data": "2026-03",
+    "github": "https://github.com/aurelio22112007",
+    "imagem": "/projetos/placeholder.svg"
+  },
+  {
+    "id": 2,
+    "nome": { "pt": "Projeto de exemplo 2", "en": "Sample project 2" },
+    "descricao": {
+      "pt": "Exemplo: substitua pelo seu segundo projeto. Para cada projeto, informe nome, descrição, tecnologias, link e imagem.",
+      "en": "Example: replace with your second project. For each project, provide name, description, technologies, link and image."
+    },
+    "tecnologias": ["JavaScript", "Git"],
+    "data": "2026-06",
+    "github": "https://github.com/aurelio22112007",
+    "imagem": "/projetos/placeholder.svg"
+  },
+  {
+    "id": 3,
+    "nome": { "pt": "Projeto de exemplo 3", "en": "Sample project 3" },
+    "descricao": {
+      "pt": "Exemplo: o mais recente aparece por último na linha do tempo. Troque a imagem por um print ou GIF do projeto funcionando.",
+      "en": "Example: the most recent one appears last on the timeline. Swap the image for a screenshot or GIF of the working project."
+    },
+    "tecnologias": ["React", "Vite"],
+    "data": "2026-10",
+    "github": "https://github.com/aurelio22112007",
+    "imagem": "/projetos/placeholder.svg"
+  }
+]
